@@ -1,0 +1,4 @@
+Just run 'make' to run all the tests.
+
+Change the CXXFLAGS variable in the makefile to see the effect of different
+optimization levels.
